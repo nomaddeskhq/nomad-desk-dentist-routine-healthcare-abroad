@@ -1,0 +1,4 @@
+site_name: Nomad Desk - Dentist and Routine Healthcare Abroad
+docs_dir: docs/docs
+theme:
+  name: readthedocs
